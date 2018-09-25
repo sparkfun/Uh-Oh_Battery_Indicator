@@ -10,7 +10,7 @@ Uh-Oh Battery Level Indicator
 [![Uh-Oh Battery Level Kit](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/0/8/7/11087-03.jpg)  
 *Uh-Oh Battery Level Indicator Kit (KIT-11087)*](https://www.sparkfun.com/products/11087)
 
-A kit that turns on an LED (Uh-Oh!) when the voltage of a given system drops below a user settable target. Utilizes the TL431 programmable shunt regulator.
+A kit that turns on an LED (Uh-Oh!) when the voltage of a given system drops below a user settable target. Utilizes the [TL431](https://www.sparkfun.com/products/11078) programmable shunt regulator.
 
 Repository Contents
 -------------------
